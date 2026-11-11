@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": MinecraftSMP68.aternos.me 
+    "ip": "MinecraftSMP68.aternos.me"
     "port": 28031,
     "version": "",
     "try-creative": false
